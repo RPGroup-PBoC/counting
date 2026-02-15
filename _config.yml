@@ -2,8 +2,7 @@ title: Course Title Here
 description: > 
   A one-sentence description of the course
 
-data_url: "http://rpdata.caltech.edu/courses/course_name/course_year/"
-
+data_url: "http://rpdata.caltech.edu/counting/2026/"
 
 # You can include a logo for your work as a .png that is saved in the folder 
 social-github: RPGroup-PBoC # add your Github handle here.
