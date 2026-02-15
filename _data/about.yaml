@@ -1,0 +1,20 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  Blank Course 101
+
+Summary: >
+  Summary of course. It can even include math! $$S = k_B\ln W$$.
+
+News: >
+  We will keep this website updated with links to relevant publications and small
+  problems to help you get a quantitative feel for viruses. 

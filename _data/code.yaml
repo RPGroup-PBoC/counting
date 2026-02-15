@@ -1,0 +1,22 @@
+Tutorials:
+  - script: 
+    title: Tutorial 0 -- Setting up your computer for scientific programming.
+    filename: t0a_setting_up_python.html
+    description: >
+      This tutorial walks you through the basics of installing and setting up
+      Python 3.7 on your computer for sicentific programming. 
+    links:
+      Jupyter Notebook: t0a_setting_up_python.ipynb
+      In Class Version: t0a_in_class.ipynb
+
+Exercises:
+  - script: 
+    title: Exercise 1 -- Simulating Diffusion
+    filename: t0a_setting_up_python.html
+    description: >
+      In this exercise, you will use random number generation to simulate a
+      random walk in 1 dimension and compare the results of your simulation to
+      analytic solutions for the diffusion equation. 
+    links:
+      Jupyter Notebook: t0a_setting_up_python.ipynb
+      Solutions : t0a_in_class.ipynb

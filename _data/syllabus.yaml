@@ -1,0 +1,194 @@
+- day:
+  date: 1/6/2020
+  week: 1
+  topic: >
+   Student lightning talks, RP & VO vision of course
+  reading: >
+   "Beak of the Finch", Dobzhansky 1976
+
+- day:
+  date: 1/7/2020
+  week: Lab
+  topic: >
+   Crafting the history of life on Earth
+
+- day:
+  date: 1/8/2020
+  week: 1
+  topic: >
+   What is evolution? The facts. The theory (RP)
+
+- day:
+  date: 1/13/2020
+  week: 2
+  topic: >
+   Darwin the geobiologist. Reading the rock record (VO)
+  slides: Bi105_2020_Week2_Lecture3_slides.pdf
+  reading: Chapter 4
+
+- day:
+  date: 1/14/2020
+  week: Lab
+  topic: >
+   Which came first, the chicken or the finch? Part I
+
+- day:
+  date: 1/15/2020
+  week: 2
+  topic: >
+   Species concept and phylogeny (VO)
+  due: HW 1
+  slides: Bi105_2020_Week2_Lecture4_slides.pdf
+
+- day:
+  date: 1/22/2020
+  week: 3
+  topic: >
+   Holiday - no class
+
+- day:
+  date: 1/21/2020
+  week: Lab
+  topic: >
+   Which came first, the chicken or the finch? Part II
+
+- day:
+  date: 1/22/2020
+  week: 3
+  topic: >
+   Whales as a success story for illustrating evolution (RP)
+  due: HW 2
+
+- day:
+  date: 1/27/2020
+  week: 4
+  topic: >
+   Mechanisms of speciation (VO)
+  reading: Chapter 14
+
+- day:
+  date: 1/28/2020
+  week: Lab
+  topic: >
+   Population genetics computational exploration
+
+- day:
+  date: 1/29/2020
+  week: 4
+  topic: >
+   Convergent evolution (RP)
+  due: HW 3
+
+- day:
+  date: 2/3/2020
+  week: 5
+  topic: >
+   Population genetics: Introduction (RP)
+
+- day:
+  date: 2/4/2020
+  week: Lab
+  topic: >
+   Luria-Delbruck part I
+  reading: Chapter 6, pg 204-207
+
+- day:
+  date: 2/5/2020
+  week: 5
+  topic: >
+   Population genetics: Drift and the Wright-Fisher model (RP)
+
+- day:
+  date: 2/10/2020
+  week: 6
+  topic: >
+   Population genetics: Analogies to Einstein’s diffusion equation (RP)
+
+- day:
+  date: 2/11/2020
+  week: Lab
+  topic: >
+   Luria-Delbruck part II
+
+- day:
+  date: 2/12/2020
+  week: 6
+  topic: >
+   Major transitions in evolution (VO)
+  due: HW 4
+
+- day:
+  date: 2/17/2020
+  week: 7
+  topic: >
+   Holiday - no class
+
+- day:
+  date: 2/18/2020
+  week: Lab
+  topic: >
+   Debate Prep
+
+- day:
+  date: 2/19/2020
+  week: 7
+  topic: >
+   In class debate on the origin of eukaryotes
+  due: HW 5
+
+- day:
+  date: 2/24/2020
+  week: 8
+  topic: >
+   Super-logarithms (RP)
+
+- day:
+  date: 2/25/2020
+  week: Lab
+  topic: >
+    Evolving promoters part I
+
+- day:
+  date: 2/25/2020
+  week: 8
+  topic: >
+   Human evolution (RP)
+
+- day:
+  date: 3/2/2020
+  week: 9
+  topic: >
+   Co-evolution (VO)
+  reading: Chapter 18
+
+- day:
+  date: 3/3/2020
+  week: Lab
+  topic: >
+   Visit bird lab at Occidental College
+
+- day:
+  date: 3/4/2020
+  week: 9
+  topic: >
+   Mutualistic and antagonistic interactions (VO)
+  reading: Chapter 18, continued
+  due: HW 6
+
+- day:
+  date: 3/9/2020
+  week: 10
+  topic: >
+   Guest lecture from Shana Goffredi on animal-microbe symbioses
+
+- day:
+  date: 3/10/2020
+  week: Lab
+  topic: >
+   Evolving promoters part II
+
+- day:
+  date: 3/11/2020
+  week: 10
+  topic: >
+   Guest lecture from Joe Parker

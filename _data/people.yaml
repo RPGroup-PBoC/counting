@@ -1,0 +1,25 @@
+# ##############################################################################
+# Authors List
+# ------------------------------------------------------------------------------
+# This YAML data file contains entry for each author involved in the work
+# This YAML data file contains information for each author of the work. The 
+# author list will be generated in the order in which they are listed below. 
+# You can  add additional fields to each person, but these will not show up
+# automatically and must then be included manually in the Liquid template code 
+# of the `page01_people.md` file.
+# ##############################################################################
+- author:
+  name: Instructor 1
+  link: "http://google.com"
+  title: Instructor
+  img: rob.jpg
+  other_info:
+     Email Address: "blank [at] university [dot] gov"
+
+- author:
+  name: Instructor 2 without an image
+  title: TA 
+
+- author:
+  name: Instructor 3 without an image
+  title: TA
