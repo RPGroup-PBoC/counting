@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Syllabus
+title: Syllabus (TBA)
 img: reading.png 
-permalink: syllabus
+permalink: syllabus.html
 caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---

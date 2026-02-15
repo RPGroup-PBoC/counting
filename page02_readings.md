@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Readings
+title: Readings (TBA)
 img: reading.png 
-permalink: readings
+permalink: readings.html
 caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---

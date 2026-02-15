@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Homework
+title: Homework (TBA)
 img: code.png # Add image post (optional)
-permalink: homework
-sidebar: true
+permalink: homework.html
+sidebar: false
 ---
 
 ---

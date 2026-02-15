@@ -9,17 +9,16 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Instructor 1
-  link: "http://google.com"
+  name: Rob Phillips
+  link: "https://www.rpgroup.caltech.edu/"
   title: Instructor
   img: rob.jpg
   other_info:
-     Email Address: "blank [at] university [dot] gov"
+     Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
 
 - author:
-  name: Instructor 2 without an image
+  name: Minakshi Ashok
   title: TA 
-
-- author:
-  name: Instructor 3 without an image
-  title: TA
+  img: minakshi.jpg
+  other_info:
+     Email Address: "mashok2 [at] caltech [dot] edu"
