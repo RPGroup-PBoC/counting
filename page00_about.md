@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-description: 
-img: corona_virus_goodsell.jpg 
-caption: "Courtesy of David S. Goodsell"
+description: Winnie the Pooh counts his honey pots. 
+img: pooh_counting.png 
+# caption: "Pooh was sitting in his house one day"
 permalink: index.html
 sidebar: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: People
 description: About the authors
 img: people.png 
-caption: "T4 Bacteriophage"
+# caption: "T4 Bacteriophage"
 permalink: people.html
 sidebar: true
 ---

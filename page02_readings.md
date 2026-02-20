@@ -4,7 +4,7 @@ title: Readings (TBA)
 img: reading.png 
 permalink: readings.html
 caption: "DNA Sequence Chromatogram"
-sidebar: true
+sidebar: false
 ---
 
 ---

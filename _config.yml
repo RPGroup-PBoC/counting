@@ -6,8 +6,7 @@ data_url: "http://rpdata.caltech.edu/counting/2026/"
 
 # You can include a logo for your work as a .png that is saved in the folder 
 social-github: RPGroup-PBoC # add your Github handle here.
-# author-img: logo.png # Comment this line out if you don't want a logo. if
-                     # absent, text will replace the logo postition.
+author-img: logo.png # Comment this line out if you don't want a logo. if absent, text will replace the logo postition.
 
 
 

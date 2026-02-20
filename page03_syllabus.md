@@ -1,28 +1,28 @@
 ---
 layout: page
-title: Syllabus (TBA)
+title: Syllabus
 img: reading.png 
 permalink: syllabus.html
-caption: "DNA Sequence Chromatogram"
+# caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---
 
 
 <table>
 <tr>
-    <th><b>Date</b></th>
     <th><b>Week</b></th>
+    <th><b>Date</b></th>
     <th><b>Topic</b></th>
-    <th><b>Due</b></th>
-    <th><b>Slides</b></th>
+<!--     <th><b>Due</b></th>
+    <th><b>Slides</b></th> -->
     <th><b>Reading</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
-    <td>{{day.date}}</td>
     <td>{{day.week}}</td>
+    <td>{{day.date}}</td>
     <td>{{day.topic}}</td>
-    {% if day.due %}
+<!--     {% if day.due %}
     <td>{{day.due}}</td>
     {% else %}
     <td>  </td>
@@ -32,7 +32,7 @@ sidebar: true
     PDF </a></td>
     {% else %}
     <td>  </td>
-    {% endif %}
+    {% endif %} -->
     <td>{{day.reading}}</td>
 </tr>
 {% endfor %}
