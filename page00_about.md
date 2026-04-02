@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Winnie the Pooh counts his honey pots. 
 img: pooh_counting.png 
-# caption: "Pooh was sitting in his house one day"
+caption: "The House at Pooh Corner, A. A. Milne"
 permalink: index.html
 sidebar: true
 ---
