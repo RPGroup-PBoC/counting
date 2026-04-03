@@ -15,7 +15,7 @@ sidebar: true
     <th><b>Topic</b></th>
 <!--     <th><b>Due</b></th>
     <th><b>Slides</b></th> -->
-    <th><b>Reading</b></th>
+    <!-- <th><b>Reading</b></th> -->
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
@@ -33,7 +33,7 @@ sidebar: true
     {% else %}
     <td>  </td>
     {% endif %} -->
-    <td>{{day.reading}}</td>
+    <!-- <td>{{day.reading}}</td> -->
 </tr>
 {% endfor %}
 </table>
