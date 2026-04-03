@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Readings (TBA)
+title: Readings
 img: reading.png 
 permalink: readings.html
-caption: "DNA Sequence Chromatogram"
-sidebar: false
+sidebar: true
 ---
 
 ---
@@ -15,7 +14,7 @@ All information is scraped from the _data/readings.yaml and _data/links.yaml.
 Edit those to update the website
 -->
 
-{% for day in site.data.readings %}
+<!-- {% for day in site.data.readings %}
 ## {{day[0]}}
 {% for pub in day[1] %}
 * [**{{pub.title}}**]({{site.baseurl}}/assets/pdfs/{{pub.link}}) by
@@ -23,8 +22,35 @@ Edit those to update the website
   %}{{pub.description}}{%endif%}
 {%endfor%}
 {%endfor%}
+ -->
 
-<center>
+<!-- {% for day in site.data.readings %}
+## {{day[0]}}
+{% for pub in day[1] %}
+* {% if pub.link contains '://' %}
+    [**{{ pub.title }}**]({{ pub.link }})
+  {% else %}
+    [**{{ pub.title }}**]({{ site.baseurl }}/assets/pdfs/{{ pub.link }})
+  {% endif %} by
+  <i>{{pub.authors}}</i> ({{pub.year}}) {%if pub.description
+  %}{{pub.description}}{%endif%}
+{%endfor%}
+{%endfor%} -->
+{% for day in site.data.readings %}
+## {{day[0]}}
+In the first week, we cover many hall of fame examples of counting in science and mathematics.
+{% for pub in day[1] %}
+* {% if pub.link contains '://' %}
+    [**{{ pub.title }}**]({{ pub.link }})
+  {% else %}
+    **{{ pub.title }}**
+  {% endif %} by
+  <i>{{pub.authors}}</i> ({{pub.year}}) {%if pub.description
+  %}{{pub.description}}{%endif%}
+{%endfor%}
+{%endfor%}
+
+<!-- <center>
 <h1> Useful links</h1>
 </center>
 
@@ -34,3 +60,4 @@ Edit those to update the website
 * [**{{link.title}}**]({{link.address}}) {%if link.description %}{{link.description}}{%endif%}
 {%endfor%}
 
+ -->

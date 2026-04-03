@@ -1,18 +1,73 @@
- # - pub: 
- #   title: The Los Alamos primer -- The first lectures on how to build an atomic bomb.
- #   authors: Robert Serber.
- #   year: 1992
- #   link: Los_Alamos_Primer.pdf
- #   description: >
- #      This famous set of lectures was delivered at Los Alamos during
- #      the Manhattan Project by Prof. Robert Serber. The goal of these lectures was
- #      to get the very bright but inexperienced young researchers up to speed on the
- #      key elements of nuclear physics they would need to build the atomic bomb.
+Week 1:
+ - pub: 
+   title: Amedeo Avogadro
+   authors: Cyril N. Hinshelwood, Linus Pauling
+   year: 1956
+   link: https://www.science.org/doi/10.1126/science.124.3225.708
+   description: >
+      . These articles are based on addresses given by Cyril Hinshelwood, then based at Oxford University, and Linus Pauling, then based at Caltech, on the commemoration of the centenary of the death of Avogadro. 
 
- # - pub: 
- #   title: Energetic cost of building a virus.
- #   authors: G. Mahmoudabadi, Ron Milo, Rob Phillips.
- #   year: 2017
- #   link: energetic.pdf
- #   description: >
- #      Energetic costs for viral assembly in T4 and influenza, mentioned in lecture 1.
+ - pub: 
+   title: Photosynthesis
+   authors: Eugene Rabinowitch, Govindjee
+   year: 1969
+   link: https://www.life.illinois.edu/govindjee/Electronic%20Publications/Books/Photosynthesis.pdf
+   # description: >
+   #    These articles are based on addresses given by Cyril Hinshelwood, then based at Oxford University, and Linus Pauling, then based at Caltech, on the commemoration of the centenary of the death of Avogadro. 
+
+ - pub: 
+   title: Atmospheric carbon dioxide variations at Mauna Loa Observatory, Hawaii
+   authors: Charles D. Keeling, Robert B. Bacastow, Arnold E. Bainbridge, Carl A. Ekdahl Jr., Peter R. Guenther, Lee S. Waterman, John F. S. Chin
+   year: 1976
+   link: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1976.tb00701.x
+   description: >
+      . Figure 5 depicts the variation of atmospheric carbon dioxide from 1957 to 1972. 
+
+ - pub: 
+   title: On the Equilibrium of Heterogeneous Substances, Part I
+   authors: Josiah Willard Gibbs
+   year: 1874
+   link: https://library.si.edu/digital-library/book/onequilibriumhe00gibb
+   description: >
+      . Gibbs' treatise on thermodynamics. Under the section "Criteria of Equilibrium and Stability", Gibbs formulates thermodynamical equilibrium as a variational statement.
+
+ - pub: 
+   title: Translation of Ludwig Boltzmann’s Paper “On the Relationship between the Second Fundamental Theorem of the Mechanical Theory of Heat and Probability Calculations Regarding the Conditions for Thermal Equilibrium” Sitzungberichte der Kaiserlichen Akademie der Wissenschaften.
+   authors: Kim Sharp, Franz Matschinsky
+   year: 2015
+   link: https://www.mdpi.com/1099-4300/17/4/1971
+   description: >
+      . Translation of Boltzmann’s seminal works introducing a probabilistic basis of entropy.
+
+ - pub: 
+   title: Translation of Einstein’s Paper proposing the notion of the photon.
+   authors: A. B. Aronst, M. B. Peppard
+   year: 1964
+   link: https://astro1.panet.utoledo.edu/~ljc/PE_eng.pdf
+   description: >
+      .
+
+ - pub: 
+   title: Serengeti Shall Not Die
+   authors: Bernhard Grzimek, Michael Grzimek
+   year: 1973
+   # link: https://astro1.panet.utoledo.edu/~ljc/PE_eng.pdf
+   description: >
+      .
+
+ - pub: 
+   title: The First 50 Million Prime Numbers
+   authors: Don Zagier
+   year: 1977
+   link: https://link.springer.com/article/10.1007/BF03039306
+   description: >
+      .
+
+ - pub: 
+   title: Thinking outside the 10-dimensional box
+   authors: 3Blue1Brown
+   year: 2017
+   link: https://www.youtube.com/watch?v=zwAD6dRSVyI
+   description: >
+      .
+

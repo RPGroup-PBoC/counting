@@ -4,70 +4,70 @@
   topic: >
     Introduction to the ubiquitous nature of counting in mathematics and the natural sciences. <br>
     Hall of fame examples of counting.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: April 9
   week: 2
   topic: >
     Counting with light. Counting molecules in the atmosphere.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: April 16
   week: 3
   topic: >
     Counting proteins in cells using fluorescent proteins.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: April 23
   week: 4
   topic: >
     Counting stars and galaxies.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: April 30
   week: 5
   topic: >
     Entropy as Counting. The great variational principle of thermodynamics.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: May 7
   week: 6
   topic: >
     Counting and the N-dimensional sphere. Counting badly and brilliantly.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: May 14
   week: 7
   topic: >
     Counting prime numbers. Experimental mathematics, the prime-number theorem.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: May 21
   week: 8
   topic: >
     Counting walks and trajectories.  The statistical physics of trajectories.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: May 28
   week: 9
   topic: >
     On counting and graphs.
-  reading: TBA.
+  # reading: TBA.
 
 - day:
   date: June 4
   week: 10
   topic: >
     The Future of Counting.
-  reading: TBA.
+  # reading: TBA.
 
 # - day:
 #   date: 3/11/2020
