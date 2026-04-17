@@ -38,7 +38,6 @@ Edit those to update the website
 {%endfor%} -->
 {% for day in site.data.readings %}
 ## {{day[0]}}
-In the first week, we cover many hall of fame examples of counting in science and mathematics.
 {% for pub in day[1] %}
 * {% if pub.link contains '://' %}
     [**{{ pub.title }}**]({{ pub.link }})
