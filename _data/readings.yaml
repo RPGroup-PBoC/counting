@@ -90,4 +90,100 @@ Week 3. Counting by light.:
    description: >
       .
 
+Week 7. Counting Prime Numbers.: 
+ - pub: 
+   title: The First 50 Million Prime Numbers
+   authors: Don Zagier
+   year: 1977
+   link: https://link.springer.com/article/10.1007/BF03039306
+   description: >
+      .
+
+ - pub: 
+   title: Mathematics, A Very Short Introduction
+   authors: Timothy Gowers
+   year: 2018
+   # link: https://www.rsc.org/images/arrhenius1896_tcm18-173546.pdf
+   description: >
+      .
+
+ - pub: 
+   title: Mathematical Education
+   authors: William P. Thurston
+   year: 1990
+   link: https://arxiv.org/pdf/math/0503081
+   description: >
+      .
+
+ - pub: 
+   title: On Proof and Progress in Mathematics
+   authors: William P. Thurston
+   year: 1994
+   link: https://arxiv.org/pdf/math/9404236
+   description: >
+      .
+
+ - pub: 
+   title: Geometry and the Imagination in Minneapolis
+   authors: John H. Conway, Peter G. Doyle, Jane Gilman, William P. Thurston
+   year: 1991
+   link: https://math.dartmouth.edu/~doyle/docs/mpls/mpls.pdf
+   description: >
+      .
+
+ - pub: 
+   title: A Mathematician's Lament
+   authors: Paul Lockhart
+   year: 2002
+   # link: https://arxiv.org/pdf/math/9404236
+   description: >
+      .
+
+ - pub: 
+   title: The Shape of Space
+   authors: Jeffrey R. Weeks
+   year: 2002
+   # link: https://arxiv.org/pdf/math/9404236
+   description: >
+      . In Exercise 2.2, Weeks introduces playing tick-tack-toe on a torus.
+
+ - pub: 
+   title: Prime Numbers and the Riemann Hypothesis
+   authors: Barry Mazur, William Stein
+   year: 2016
+   # link: https://arxiv.org/pdf/math/9404236
+   description: >
+      .
+
+ - pub: 
+   title: Euler, The Master of Us All
+   authors: William Dunham
+   year: 1999
+   link: https://archive.org/details/eulermasterofusa0000dunh_b9h6
+   description: >
+      .
+
+ - pub: 
+   title: The Euler Archive
+   authors: originally compiled by Gustaf Eneström
+   year: 1913
+   link: https://scholarlycommons.pacific.edu/euler-works/
+   description: >
+      .
+
+ - pub: 
+   title: Variae observationes circa series infinitas
+   authors: Leonhard Euler
+   year: 1744
+   link: https://scholarlycommons.pacific.edu/euler-works/72/
+   description: >
+      .
+
+ - pub: 
+   title: Leonhard Euler's Integral, A Historical Profile of the Gamma Function, In Memoriam
+   authors: Milton Abramowitz
+   year: 1959
+   link: https://www.jstor.org/stable/2309786?seq=1
+   description: >
+      .
 
