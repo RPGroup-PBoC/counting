@@ -187,3 +187,27 @@ Week 7. Counting Prime Numbers.:
    description: >
       .
 
+Week 8. The Riemann Hypothesis.:
+ - pub: 
+   title: Are theoretical results ‘Results’?
+   authors: Raymond E Goldstein
+   year: 2018
+   link: https://elifesciences.org/articles/40018
+   description: >
+      . 
+
+ - pub: 
+   title: On the Number of Prime Numbers less than a Given Quantity.
+   authors: Bernhard Riemann
+   year: 1859
+   link: https://www.claymath.org/wp-content/uploads/2023/04/Wilkins-translation.pdf
+   description: >
+      . Translated by David R. Wilkins.
+
+ - pub: 
+   title: A Study of Bernhard Riemann's 1859 Paper, Second Edition.
+   authors: Terrence P. Murphy
+   year: 2025
+   link: 
+   description: >
+      . 
